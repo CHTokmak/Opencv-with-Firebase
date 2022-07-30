@@ -8,7 +8,7 @@ cred = credentials.Certificate('firebase-sdk.json')
 
 firebase_admin.initialize_app(cred, {
 
-    'databaseURL': 'https://chtdrone-default-rtdb.firebaseio.com'
+    'databaseURL': '**Firebase Link**'
 
 })
 
